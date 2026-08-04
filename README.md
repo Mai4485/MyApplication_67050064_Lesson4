@@ -1,1 +1,1 @@
-ข้อความอยู่ใน strings.xml
+เก็บ text อยู่ใน strings.xml
